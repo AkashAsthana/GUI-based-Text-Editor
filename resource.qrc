@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>D:/iconsForTextEditor/icons8-copy-50.png</file>
+        <file>D:/iconsForTextEditor/icons8-cut-50.png</file>
+        <file>D:/iconsForTextEditor/icons8-new-file-50.png</file>
+        <file>D:/iconsForTextEditor/icons8-open-file-under-cursor-50.png</file>
+        <file>D:/iconsForTextEditor/icons8-paste-50.png</file>
+        <file>D:/iconsForTextEditor/icons8-redo-50.png</file>
+        <file>D:/iconsForTextEditor/icons8-save-50.png</file>
+        <file>D:/iconsForTextEditor/icons8-save-as-50.png</file>
+        <file>D:/iconsForTextEditor/icons8-undo-50.png</file>
+        <file>D:/iconsForTextEditor/icons8-help-100.png</file>
+    </qresource>
+</RCC>
